@@ -1,0 +1,5 @@
+a=int(input("enter a number"))
+b=int(input("eneter a number"))
+print(a+b,a-b,a*b)
+print(a/b,a//b,a**b)
+print("the result is:",a+b,a-b,a*b,a/b,a//b,a**b)
